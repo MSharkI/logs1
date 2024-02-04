@@ -1,0 +1,14 @@
+C:\Users\Максим\Desktop\logs\logs\bin\Debug\NLog.config
+C:\Users\Максим\Desktop\logs\logs\bin\Debug\logs.exe.config
+C:\Users\Максим\Desktop\logs\logs\bin\Debug\logs.exe
+C:\Users\Максим\Desktop\logs\logs\bin\Debug\logs.pdb
+C:\Users\Максим\Desktop\logs\logs\bin\Debug\NLog.dll
+C:\Users\Максим\Desktop\logs\logs\bin\Debug\NLog.xml
+C:\Users\Максим\Desktop\logs\logs\obj\Debug\logs.csproj.AssemblyReference.cache
+C:\Users\Максим\Desktop\logs\logs\obj\Debug\logs.Form1.resources
+C:\Users\Максим\Desktop\logs\logs\obj\Debug\logs.Properties.Resources.resources
+C:\Users\Максим\Desktop\logs\logs\obj\Debug\logs.csproj.GenerateResource.cache
+C:\Users\Максим\Desktop\logs\logs\obj\Debug\logs.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\logs\logs\obj\Debug\logs.csproj.CopyComplete
+C:\Users\Максим\Desktop\logs\logs\obj\Debug\logs.exe
+C:\Users\Максим\Desktop\logs\logs\obj\Debug\logs.pdb
